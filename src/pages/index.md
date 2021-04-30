@@ -10,7 +10,7 @@ sections:
 
       Sunce na tercu i **usrećite** sebe ili najdraže si osobe,
     actions:
-      - title: See all items
+      - title: Iy
         url: /store
         arrow: true
         style: primary
