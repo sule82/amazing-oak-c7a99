@@ -11,7 +11,7 @@ sections:
       Sunce na tercu i **usrećite** sebe ili najdraže si osobe,
     actions:
       - title: Izloži sve
-        url: /store
+        url: /pecara
         arrow: true
         style: primary
       - title: lorem-ipsum
