@@ -15,7 +15,7 @@ sections:
         arrow: true
         style: primary
   - type: featured_products_section
-    section_id: voli
+    section_id: volljeni
     title: Rađeni sa ljubavlju
     icon: true
     light_title: true
