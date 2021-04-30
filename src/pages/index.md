@@ -6,7 +6,7 @@ sections:
     background_image: images/kraljevska.jpg
     background_image_opacity: 50
     content: |
-      ## Shopajte sa stilom.
+      # Shopajte sa stilom.
 
       Sunce na tercu i **usrećite** sebe ili najdraže si osobe,
     actions:
