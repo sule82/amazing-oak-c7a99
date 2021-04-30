@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     section_id: kraljevski_dio
     background_image: images/kraljevska.jpg
-    background_image_opacity: 33
+    background_image_opacity: 50
     content: >-
       # Real, beautiful plants right to your door
 
