@@ -15,7 +15,7 @@ sections:
         arrow: true
         style: primary
   - type: featured_products_section
-    section_id: volljeni?uradci
+    section_id: volljeni_uradci
     title: Rađeni sa ljubavlju
     icon: true
     light_title: true
