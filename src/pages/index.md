@@ -14,11 +14,6 @@ sections:
         url: /pecara
         arrow: true
         style: primary
-      - title: lorem-ipsum
-        url: '#'
-        style: primary
-        arrow: false
-        type: action
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
