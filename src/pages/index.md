@@ -2,7 +2,7 @@
 white_header: true
 sections:
   - type: hero_section
-    section_id: hero_section
+    section_id: kraljevski_dio
     background_image: images/header.jpg
     background_image_opacity: 33
     content: >-
