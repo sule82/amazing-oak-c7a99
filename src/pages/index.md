@@ -5,11 +5,10 @@ sections:
     section_id: kraljevski_dio
     background_image: images/kraljevska.jpg
     background_image_opacity: 50
-    content: >-
-      # Real, beautiful plants right to your door
+    content: |
+      ## Shopajte sa stilom.
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Sunce na tercu i **usrećite** sebe ili najdraže si osobe,
     actions:
       - title: See all items
         url: /store
