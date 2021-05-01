@@ -23,7 +23,8 @@
         },
         {
             "title": "Pronađi",
-            "style": "link"
+            "style": "link",
+            "url": "#"
         },
         {
             "title": "Prodaj",
