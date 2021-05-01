@@ -2,7 +2,7 @@
 id: '3'
 price: '150.00'
 title: Tegla ukusnog iznenađenja
-description: 'Sadrži isključivo prirodne sastojke, bez'
+description: 'Sadrži isključivo prirodne sastojke, bez '
 default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
