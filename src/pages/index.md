@@ -34,7 +34,7 @@ sections:
     testimonials:
       - author:
           name: "deja za logo 10...\U0001F496 1"
-          location: 'Colorado, USA'
+          location: G
         text: "Ideja za logo 10...\U0001F496 1"
       - author:
           name: Major Payne
