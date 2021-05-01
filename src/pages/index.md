@@ -30,7 +30,7 @@ sections:
     title: Mi volimo
   - type: testimonials_section
     section_id: narod_prica
-    title: Testimonials
+    title: Priča se
     testimonials:
       - author:
           name: John Dope
