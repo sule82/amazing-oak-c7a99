@@ -1,5 +1,5 @@
 ---
-title: Izvorno i neopisivo rijetko
+title: Root & Rare
 order: 2
 seo:
   title: Tegla puna zdravlja
