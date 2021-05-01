@@ -26,8 +26,6 @@ seo:
     - name: 'twitter:image'
       value: images/plant2-lg.jpg
       relativeUrl: true
-  description: >-
-    Čokoladni kikiObičnoriki maslac,ili možda džem od višnje sa bananom, suhom
-    šljivom i orasima?
+  description: Tradicionalna ()
 template: category
 ---
