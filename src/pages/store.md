@@ -2,6 +2,7 @@
 title: Shop
 sections:
   - type: store_section
+    section_id: prodajni_dio
   - type: featured_products_section
     section_id: featured_products_section
     title: Best sellers
