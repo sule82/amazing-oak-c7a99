@@ -47,7 +47,6 @@ sections:
     image: images/one_page_frjs.jpg
     background_image: images/block-mini.png
     cta:
-      title: Discover
       url: /store
       style: secondary
       arrow: true
