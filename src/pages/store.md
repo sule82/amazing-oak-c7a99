@@ -24,7 +24,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Store
+  title: StoreSuncokret Shop
   description: This is the store page
   extra:
     - name: 'og:type'
