@@ -2,7 +2,7 @@
 title: Root & Rare
 order: 4
 seo:
-  title: 'IZrađenozaborabljenom ili '
+  title: 'Izrađenozaborabljenom ili '
   extra:
     - name: 'og:type'
       value: website
