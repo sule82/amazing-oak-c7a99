@@ -37,7 +37,7 @@ sections:
           location: 'Gračania, BA'
         text: "Ideja za logo 10...\U0001F496 1"
       - author:
-          name: Major Payne
+          name: Zedina d.o.o
           location: 'VA, USA'
         text: Vidi se da pripreme radi profesionalac
   - type: promotion_section
