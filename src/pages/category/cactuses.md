@@ -2,7 +2,7 @@
 title: Root & Rare
 order: 4
 seo:
-  title: Tegla puna zdravlja
+  title: IZrađe
   extra:
     - name: 'og:type'
       value: website
