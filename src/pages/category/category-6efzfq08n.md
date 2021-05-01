@@ -1,5 +1,5 @@
 ---
-title: 'Slikanje i '
+title: Slikanje i mozaik
 order: 0
 seo:
   title: ''
