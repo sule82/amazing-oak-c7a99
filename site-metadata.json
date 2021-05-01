@@ -28,7 +28,7 @@
         },
         {
             "title": "Prodaj",
-            "url": "/emisija",
+            "url": "/pijaca",
             "style": "primary",
             "arrow": false,
             "type": "action"
