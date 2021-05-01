@@ -15,7 +15,7 @@ sections:
   - type: promotion_section
     section_id: promotivni_dio
     title: Web sajt ⭐
-    subtitle: za samo 96.00KM
+    subtitle: za samo 96.00
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
