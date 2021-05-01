@@ -14,7 +14,7 @@ sections:
       - src/pages/products/plant7.md
   - type: promotion_section
     section_id: promotivni_dio
-    title: Web sajt 
+    title: Web sajt ⭐ ☀ ⛅ ☁ ⚡ ☔ ❄ 
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: /images/leaf.svg
