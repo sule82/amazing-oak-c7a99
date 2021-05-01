@@ -1,5 +1,5 @@
 ---
-title: Pla
+title: 'Slikanje i '
 order: 0
 seo:
   title: ''
