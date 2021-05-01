@@ -26,6 +26,5 @@ seo:
     - name: 'twitter:image'
       value: images/plant2-lg.jpg
       relativeUrl: true
-  description: IZvo
 template: category
 ---
