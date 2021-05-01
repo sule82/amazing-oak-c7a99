@@ -56,6 +56,7 @@ seo:
       value: images/plant1-lg.jpg
       relativeUrl: true
 template: product
+category: src/pages/category/category-6efzfq08n.md
 ---
 ## Piknik torba sa oslikanim pejzažom
 
