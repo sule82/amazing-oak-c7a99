@@ -2,7 +2,7 @@
 title: Hrana i zdravlje
 order: 2
 seo:
-  title: Cactuses
+  title: Tegla
   description: This is the store page
   extra:
     - name: 'og:type'
