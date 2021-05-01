@@ -5,7 +5,7 @@ title: Prazan papir
 description: Vidi naslov..
 default_thumbnail_image: images/oldpaper.png
 default_original_image: images/oldpaper.png
-featured: true
+featured: false
 order: 9
 category: src/pages/category/cactuses.md
 seo:
