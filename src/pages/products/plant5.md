@@ -3,7 +3,8 @@ id: '5'
 price: '62.00'
 title: Ručno šivena noćna torba
 description: 'Opis :)'
-default_thumbnail_image: images/plant5.jpg
+default_thumbnail_image: >-
+  images/2018-New-Vintage-Beaded-Evening-Bag-Women-Embroidered-Bag-Handmade-Sequined-Handbag-Hand-Bag-Wedding-Party.jpg
 default_original_image: images/plant5-lg.jpg
 featured: true
 order: 5
