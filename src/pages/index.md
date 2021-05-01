@@ -45,7 +45,7 @@ sections:
     title: A new home interior for summer
     subtitle: from $149.99
     image: images/kraljevska.jpg
-    background_image: images/leaf.svg
+    background_image: images/block-mini.png
     cta:
       title: Discover
       url: /store
