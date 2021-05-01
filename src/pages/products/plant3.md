@@ -6,7 +6,7 @@ description: >-
   Sadrži isključivo prirodne sastojke, bez dodatnih masti, ulja, šećera i
   kiselina.
 default_thumbnail_image: images/tegla.jpg
-default_original_image: images/plant3-lg.jpg
+default_original_image: images/tegla2.jpg
 featured: true
 order: 3
 category: src/pages/category/cactuses.md
