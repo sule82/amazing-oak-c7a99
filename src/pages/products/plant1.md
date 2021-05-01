@@ -22,7 +22,7 @@ description: >-
   ostvarenja.  Prvi krajolici slikani izravno u prirodi (plenerizam) javljaju se
   tek u impresionizmu. 
 default_thumbnail_image: images/Bilinska-Pejzaz.jpg
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/Bilinska-Pejzaz.jpg
 featured: true
 order: 1
 category: src/pages/category/bigplants.md
