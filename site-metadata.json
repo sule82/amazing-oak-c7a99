@@ -35,7 +35,7 @@
         },
         {
             "title": "Komuniciraj",
-            "url": "/kontakt",
+            "url": "#",
             "style": "primary",
             "arrow": false,
             "type": "action"
