@@ -25,6 +25,13 @@
             "title": "Vizija",
             "url": "/vizija",
             "style": "link"
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
         }
     ],
     "title": "Suncokret Shop",
