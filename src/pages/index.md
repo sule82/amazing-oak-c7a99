@@ -47,7 +47,7 @@ sections:
     image: images/one_page_frjs.jpg
     background_image: images/block-mini.png
     cta:
-      url: /store
+      url: 'https://suncokret.gracanica.club/web-stranica-za-samo-96km/'
       style: secondary
       arrow: true
       title: Požuri narudžbu
