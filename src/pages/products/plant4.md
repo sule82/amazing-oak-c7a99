@@ -1,6 +1,6 @@
 ---
 id: '4'
-price: '24.99'
+price: '2.90'
 title: Modro lišće
 description: >-
   Čokoladni kikiriki maslac,ili možda džem od višnje sa bananom, suhom šljivom i
