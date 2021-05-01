@@ -5,7 +5,7 @@ sections:
     section_id: prodajni_dio
   - type: featured_products_section
     section_id: featured_products_section
-    title: Best sellers
+    title: We Love to Make
     icon: true
     featured_products:
       - src/pages/products/plant1.md
