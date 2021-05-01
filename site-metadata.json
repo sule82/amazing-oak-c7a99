@@ -12,7 +12,7 @@
     "palette": "yellow",
     "main_menu": [
         {
-            "title": "Shop",
+            "title": "Kupi",
             "url": "/pecara",
             "style": "link"
         },
