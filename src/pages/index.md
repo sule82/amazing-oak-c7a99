@@ -41,7 +41,7 @@ sections:
           location: 'Gračanica, BA'
         text: Vidi se da pripreme radi profesionalac.
   - type: promotion_section
-    section_id: promotion_section
+    section_id: promotivni_dio
     title: Web stranica ⭐
     subtitle: from $149.99
     image: images/kraljevska.jpg
