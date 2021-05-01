@@ -1,6 +1,6 @@
 ---
 title: Root & Rare
-order: 2
+order: 4
 seo:
   title: Tegla puna zdravlja
   extra:
