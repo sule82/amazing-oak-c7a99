@@ -28,6 +28,6 @@ seo:
       relativeUrl: true
   description: >-
     Izrada ovg elementa je trajala 3 godine, bez prisiljavalja materijala
-    industrijskim tehnikama
+    industrijskim tehnikama.
 template: category
 ---
