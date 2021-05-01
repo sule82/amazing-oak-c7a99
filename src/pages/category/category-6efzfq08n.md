@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Pla
 order: 0
 seo:
   title: ''
