@@ -1,6 +1,6 @@
 ---
 id: '5'
-price: '6'
+price: '62.00'
 title: Ručno šivena noćna torba
 description: 'Opis :)'
 default_thumbnail_image: images/plant5.jpg
