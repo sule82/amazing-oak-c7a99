@@ -42,7 +42,7 @@ sections:
         text: Vidi se da pripreme radi profesionalac.
   - type: promotion_section
     section_id: promotivni_dio
-    title: Web stranica ⭐
+    title: Web sajt ⭐
     subtitle: from $149.99
     image: images/kraljevska.jpg
     background_image: images/block-mini.png
