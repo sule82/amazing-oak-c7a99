@@ -44,7 +44,7 @@ sections:
     section_id: promotivni_dio
     title: Web sajt ⭐
     subtitle: ve' od 94.00
-    image: images/kraljevska.jpg
+    image: images/one_page_frjs.jpg
     background_image: images/block-mini.png
     cta:
       title: Discover
