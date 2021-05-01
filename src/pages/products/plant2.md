@@ -3,7 +3,7 @@ id: '2'
 price: '290.00'
 title: Zeleno lišće
 description: Neukusno žvakavo lišće
-default_thumbnail_image: images/plant2.jpg
+default_thumbnail_image: images/plant8-lg.jpg
 default_original_image: images/plant2-lg.jpg
 order: 2
 category: src/pages/category/cactuses.md
