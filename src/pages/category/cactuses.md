@@ -27,7 +27,7 @@ seo:
       value: images/plant2-lg.jpg
       relativeUrl: true
   description: >-
-    Čokoladni kikiriki maslac,ili možda džem od višnje sa bananom, suhom šljivom
-    i orasima?
+    Čokoladni kikiObičnoriki maslac,ili možda džem od višnje sa bananom, suhom
+    šljivom i orasima?
 template: category
 ---
