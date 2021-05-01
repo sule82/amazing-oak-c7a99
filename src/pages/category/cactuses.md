@@ -1,5 +1,5 @@
 ---
-title: 'Izvorno i '
+title: Izvorno i neopisivo rijetko
 order: 2
 seo:
   title: Tegla puna zdravlja
