@@ -26,6 +26,6 @@ seo:
     - name: 'twitter:image'
       value: images/plant2-lg.jpg
       relativeUrl: true
-  description: 'Izrada ovg elementa je trajala 3 godine, bez '
+  description: 'Izrada ovg elementa je trajala 3 godine, bez prisiljavalja materijala '
 template: category
 ---
