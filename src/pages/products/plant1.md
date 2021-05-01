@@ -25,7 +25,6 @@ default_thumbnail_image: images/Bilinska-Pejzaz.jpg
 default_original_image: images/Bilinska-Pejzaz.jpg
 featured: true
 order: 1
-category: src/pages/category/bigplants.md
 seo:
   title: Piknik torba sa oslikanim pejzažom
   description: >-
