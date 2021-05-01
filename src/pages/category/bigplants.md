@@ -3,7 +3,7 @@ title: Torbe
 order: -2
 seo:
   title: Usrećite sebe ili najdraže osobe veselo oslikanom torbom.
-  description: This is the store page
+  description: Piknik torba sa oslikanim pejzažom
   extra:
     - name: 'og:type'
       value: website
