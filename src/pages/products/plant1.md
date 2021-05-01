@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '49.40'
+price: '49.'
 title: Piknik torba sa oslikanim pejzažom
 description: >-
   Pejzaž, pejsaž (francuski: paysage) ili krajolik je likovni motiv s prikazom
