@@ -35,7 +35,7 @@ sections:
       - author:
           name: John Dope
           location: 'Colorado, USA'
-        text: "deja za logo 10...\U0001F496 1"
+        text: "Ideja za logo 10...\U0001F496 1"
       - author:
           name: Major Payne
           location: 'VA, USA'
