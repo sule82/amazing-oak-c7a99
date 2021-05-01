@@ -43,7 +43,7 @@ sections:
   - type: promotion_section
     section_id: promotivni_dio
     title: Web sajt ⭐
-    subtitle: from $149.99
+    subtitle: 've'' od '
     image: images/kraljevska.jpg
     background_image: images/block-mini.png
     cta:
