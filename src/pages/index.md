@@ -33,7 +33,7 @@ sections:
     title: Priča se
     testimonials:
       - author:
-          name: John Dope
+          name: "deja za logo 10...\U0001F496 1"
           location: 'Colorado, USA'
         text: "Ideja za logo 10...\U0001F496 1"
       - author:
