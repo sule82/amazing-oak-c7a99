@@ -1,6 +1,6 @@
 ---
 id: '3'
-price: '150.00'
+price: '9.90'
 title: Tegla ukusnog iznenađenja
 description: >-
   Sadrži isključivo prirodne sastojke, bez dodatnih masti, ulja, šećera i
