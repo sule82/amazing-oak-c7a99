@@ -42,7 +42,7 @@ sections:
         text: Vidi se da pripreme radi profesionalac.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Web stranica
     subtitle: from $149.99
     image: images/kraljevska.jpg
     background_image: images/block-mini.png
