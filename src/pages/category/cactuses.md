@@ -1,5 +1,5 @@
 ---
-title: Hrana i zdravlje
+title: 'Izvorno i '
 order: 2
 seo:
   title: Tegla puna zdravlja
