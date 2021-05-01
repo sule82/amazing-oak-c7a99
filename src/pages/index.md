@@ -34,7 +34,7 @@ sections:
     testimonials:
       - author:
           name: Maida Mujkić
-          location: 'Gračania, BA'
+          location: 'Gračanica, BA'
         text: "Ideja za logo 10...\U0001F496 1"
       - author:
           name: Zedina d.o.o.
