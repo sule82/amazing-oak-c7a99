@@ -27,7 +27,7 @@ seo:
       value: images/plant2-lg.jpg
       relativeUrl: true
   description: >-
-    Izrada ovg elementa je trajala 3 godine, bez prisiljavalja materijala
-    industrijskim tehnikama.
+    Izrada ovg elementa je trajala 3 godine, bez  materijala industrijskim
+    tehnikama.
 template: category
 ---
