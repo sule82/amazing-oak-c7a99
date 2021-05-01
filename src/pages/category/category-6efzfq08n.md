@@ -2,7 +2,7 @@
 title: Slikanje i mozaik
 order: 5
 seo:
-  title: ''
+  title: Slikanje i mozaik
   description: ''
   robots: []
   extra: []
