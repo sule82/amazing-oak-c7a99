@@ -35,7 +35,7 @@
         },
         {
             "title": "Komuniciraj",
-            "url": "#narod_prica",
+            "url": "narod_prica",
             "style": "primary",
             "arrow": false,
             "type": "action"
