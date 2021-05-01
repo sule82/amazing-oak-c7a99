@@ -480,7 +480,7 @@ models:
   product:
     type: page
     label: Proizvodi
-    layout: product
+    layout: proizvodi
     urlPath: products/{slug}
     folder: products
     fields:
