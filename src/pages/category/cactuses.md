@@ -2,7 +2,7 @@
 title: Hrana i zdravlje
 order: 2
 seo:
-  title: Tegla
+  title: Tegla super zdravog
   description: This is the store page
   extra:
     - name: 'og:type'
