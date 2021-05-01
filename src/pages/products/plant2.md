@@ -1,6 +1,6 @@
 ---
 id: '2'
-price: '99.00'
+price: '290.00'
 title: Zeleno lišće
 description: Neukusno žvakavo lišće
 default_thumbnail_image: images/plant2.jpg
