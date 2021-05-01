@@ -13,7 +13,7 @@ sections:
       - src/pages/products/plant5.md
       - src/pages/products/plant7.md
   - type: promotion_section
-    section_id: promotion_section
+    section_id: promotivni_dio
     title: A new home interior for summer
     subtitle: from $149.99
     image: images/promo.jpg
