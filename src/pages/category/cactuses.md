@@ -3,7 +3,6 @@ title: Hrana i zdravlje
 order: 2
 seo:
   title: Tegla puna zdravlja
-  description: This is the store page
   extra:
     - name: 'og:type'
       value: website
