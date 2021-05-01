@@ -26,6 +26,6 @@ seo:
     - name: 'twitter:image'
       value: images/plant2-lg.jpg
       relativeUrl: true
-  description: 'Čokoladni kikiriki maslac,ili možda '
+  description: 'Čokoladni kikiriki maslac,ili možda džem od višnje sa banana'
 template: category
 ---
