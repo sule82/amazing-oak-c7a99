@@ -1,6 +1,6 @@
 ---
 id: '9'
-price: '400.00'
+price: '1000.00'
 title: Prazan papir
 description: Vidi naslov..
 default_thumbnail_image: images/plant9.jpg
