@@ -15,7 +15,7 @@ sections:
   - type: promotion_section
     section_id: promotivni_dio
     title: Web sajt ⭐
-    subtitle: za samo $96.00
+    subtitle: za samo $96.00KM
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
