@@ -1,7 +1,7 @@
 ---
 id: '5'
 price: '220.00'
-title: 'Ručno '
+title: 'Ručno šivena '
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
