@@ -29,7 +29,7 @@ sections:
       - src/pages/category/cactuses.md
     title: Mi volimo
   - type: testimonials_section
-    section_id: testimonials_section
+    section_id: narod_prica
     title: Testimonials
     testimonials:
       - author:
