@@ -2,7 +2,7 @@
 title: Torbe
 order: -2
 seo:
-  title: Usrećite sebe ili najdraže osobe
+  title: 'Usrećite sebe ili najdraže osobe '
   description: This is the store page
   extra:
     - name: 'og:type'
