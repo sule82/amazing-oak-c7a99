@@ -33,7 +33,7 @@ sections:
     title: Priča se
     testimonials:
       - author:
-          name: "Ideja za logo 10...\U0001F496 1"
+          name: Maida Mujkić
           location: 'Gračania, BA'
         text: "Ideja za logo 10...\U0001F496 1"
       - author:
