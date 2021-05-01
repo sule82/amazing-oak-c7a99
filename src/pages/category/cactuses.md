@@ -26,6 +26,6 @@ seo:
     - name: 'twitter:image'
       value: images/plant2-lg.jpg
       relativeUrl: true
-  description: 'Čokoladni kikiriki maslac,ili mo\da '
+  description: 'Čokoladni kikiriki maslac,ili mo'
 template: category
 ---
