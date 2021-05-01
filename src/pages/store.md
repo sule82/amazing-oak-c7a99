@@ -25,7 +25,7 @@ sections:
       arrow: true
 seo:
   title: Suncokret Shop
-  description: This is the store page
+  description: Ovo je naš ǌb shop.
   extra:
     - name: 'og:type'
       value: website
