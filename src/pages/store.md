@@ -4,7 +4,7 @@ sections:
   - type: store_section
     section_id: prodajni_dio
   - type: featured_products_section
-    section_id: featured_products_section
+    section_id: ljubavni
     title: We Love to Make
     icon: true
     featured_products:
