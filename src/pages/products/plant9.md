@@ -2,7 +2,7 @@
 id: '9'
 price: '400.00'
 title: Prazan papir
-description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
+description: Vidi naslov..
 default_thumbnail_image: images/plant9.jpg
 default_original_image: images/plant9-lg.jpg
 featured: true
