@@ -1,6 +1,6 @@
 ---
 title: Torbe
-order: 0
+order: 1
 seo:
   title: Big plants
   description: This is the store page
