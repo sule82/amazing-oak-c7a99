@@ -39,7 +39,7 @@ sections:
       - author:
           name: Zedina d.o.o
           location: 'Gračanica, BA'
-        text: Vidi se da pripreme radi profesionalac
+        text: Vidi se da pripreme radi profesionalac.
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
