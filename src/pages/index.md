@@ -35,10 +35,7 @@ sections:
       - author:
           name: John Dope
           location: 'Colorado, USA'
-        text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+        text: "deja za logo 10...\U0001F496 1"
       - author:
           name: Major Payne
           location: 'VA, USA'
