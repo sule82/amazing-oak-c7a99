@@ -9,4 +9,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: advanced
+page_css_class: about
 ---
