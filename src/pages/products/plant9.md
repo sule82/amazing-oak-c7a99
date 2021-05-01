@@ -3,7 +3,7 @@ id: '9'
 price: '1000.00'
 title: Prazan papir
 description: Vidi naslov..
-default_thumbnail_image: images/plant9.jpg
+default_thumbnail_image: images/oldpaper.png
 default_original_image: images/plant9-lg.jpg
 featured: true
 order: 9
