@@ -21,7 +21,7 @@ description: >-
   Japanu prisutan je od 6. i 7. stoljeća i smatra se među njihova najvrednija
   ostvarenja.  Prvi krajolici slikani izravno u prirodi (plenerizam) javljaju se
   tek u impresionizmu. 
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: images/Bilinska-Pejzaz.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
