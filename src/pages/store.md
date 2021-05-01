@@ -19,8 +19,8 @@ sections:
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
-      title: Po
-      url: /store
+      title: Požuri narudžbu
+      url: /shop
       style: secondary
       arrow: true
 seo:
