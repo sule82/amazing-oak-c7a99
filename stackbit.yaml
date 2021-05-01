@@ -88,7 +88,40 @@ models:
     hideContent: true
     file: index.md
     singleInstance: true
-    extends: advanced_page_fields
+    fields:
+      - type: string
+        label: Title
+        name: title
+        description: The title of the page
+        required: true
+      - type: string
+        name: page_css_class
+        label: Page CSS class
+      - type: boolean
+        label: White header
+        name: white_header
+      - type: list
+        name: sections
+        label: Sections
+        description: Page sections
+        items:
+          type: model
+          models:
+            - hero_section
+            - header_section
+            - featured_products_section
+            - featured_categories_section
+            - testimonials_section
+            - promotion_section
+            - store_section
+            - faq_section
+            - bulletpoints_section
+            - contact_section
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
+        label: Seo
   advanced:
     type: page
     label: Advanced Page
@@ -99,7 +132,40 @@ models:
       - index.md
       - category/**
       - products/**
-    extends: advanced_page_fields
+    fields:
+      - type: string
+        label: Title
+        name: title
+        description: The title of the page
+        required: true
+      - type: string
+        name: page_css_class
+        label: Page CSS class
+      - type: boolean
+        label: White header
+        name: white_header
+      - type: list
+        name: sections
+        label: Sections
+        description: Page sections
+        items:
+          type: model
+          models:
+            - hero_section
+            - header_section
+            - featured_products_section
+            - featured_categories_section
+            - testimonials_section
+            - promotion_section
+            - store_section
+            - faq_section
+            - bulletpoints_section
+            - contact_section
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
+        label: Seo
   store:
     type: page
     label: Store
@@ -107,7 +173,40 @@ models:
     file: store.md
     singleInstance: true
     hideContent: true
-    extends: advanced_page_fields
+    fields:
+      - type: string
+        label: Title
+        name: title
+        description: The title of the page
+        required: true
+      - type: string
+        name: page_css_class
+        label: Page CSS class
+      - type: boolean
+        label: White header
+        name: white_header
+      - type: list
+        name: sections
+        label: Sections
+        description: Page sections
+        items:
+          type: model
+          models:
+            - hero_section
+            - header_section
+            - featured_products_section
+            - featured_categories_section
+            - testimonials_section
+            - promotion_section
+            - store_section
+            - faq_section
+            - bulletpoints_section
+            - contact_section
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
+        label: Seo
   advanced_page_fields:
     type: object
     label: Advanced page fields
@@ -144,13 +243,14 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+        label: Seo
   category:
     type: page
     label: Category
     hideContent: true
     layout: category
     folder: category
-    urlPath: 'category/{slug}'
+    urlPath: category/{slug}
     fields:
       - type: string
         name: title
@@ -163,6 +263,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+        label: Seo
   hero_section:
     type: object
     label: Hero Section
@@ -378,9 +479,9 @@ models:
               label: Bulletpoint image
   product:
     type: page
-    label: Product
+    label: Proizvodi
     layout: product
-    urlPath: 'products/{slug}'
+    urlPath: products/{slug}
     folder: products
     fields:
       - type: string
@@ -418,6 +519,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+        label: Seo
   action:
     type: object
     label: Action
@@ -486,11 +588,15 @@ models:
             - type: string
               name: name
               default: ''
+              label: Name
             - type: string
               name: value
               default: ''
+              label: Value
             - type: string
               name: keyName
               default: name
+              label: Key Name
             - type: boolean
               name: relativeUrl
+              label: Relative Url
