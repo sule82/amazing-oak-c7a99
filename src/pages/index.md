@@ -43,7 +43,7 @@ sections:
   - type: promotion_section
     section_id: promotivni_dio
     title: Web sajt ⭐
-    subtitle: 've'' od '
+    subtitle: ve' od 94.00
     image: images/kraljevska.jpg
     background_image: images/block-mini.png
     cta:
