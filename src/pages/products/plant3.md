@@ -5,7 +5,7 @@ title: Tegla ukusnog iznenađenja
 description: >-
   Sadrži isključivo prirodne sastojke, bez dodatnih masti, ulja, šećera i
   kiselina.
-default_thumbnail_image: images/plant3.jpg
+default_thumbnail_image: images/tegla.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
