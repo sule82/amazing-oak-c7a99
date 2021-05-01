@@ -50,7 +50,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-      title: Požuri
+      title: Požuri narudžbu
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
