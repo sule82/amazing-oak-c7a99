@@ -29,7 +29,7 @@ category: src/pages/category/bigplants.md
 seo:
   title: Piknik torba sa oslikanim pejzažom
   description: >-
-    rajolik je likovni motiv s prikazom krajobraza ili dijela krajolika. Prema
+    Kajolik je likovni motiv s prikazom krajobraza ili dijela krajolika. Prema
     kraju u kojem je rađen može biti: planinski, šumski, poljski, riječni ili
     pejzaž mora zvan marina; panorama je široki pogled na grad, a veduta je
     prikaz gradskih trgova i ulica.
