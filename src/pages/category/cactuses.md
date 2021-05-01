@@ -26,6 +26,8 @@ seo:
     - name: 'twitter:image'
       value: images/plant2-lg.jpg
       relativeUrl: true
-  description: 'Čokoladni kikiriki maslac,ili možda džem od višnje sa bananama i'
+  description: >-
+    Čokoladni kikiriki maslac,ili možda džem od višnje sa bananom, suhom šljivom
+    i orasima?
 template: category
 ---
