@@ -13,7 +13,7 @@
     "main_menu": [
         {
             "title": "Shop",
-            "url": "/store",
+            "url": "/pecara",
             "style": "link"
         },
         {
