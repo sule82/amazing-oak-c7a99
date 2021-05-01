@@ -23,7 +23,7 @@ sections:
       - src/pages/products/plant1.md
       - src/pages/products/plant3.md
   - type: featured_categories_section
-    section_id: voljen
+    section_id: voljena_kategorija
     featured_categories:
       - src/pages/category/bigplants.md
       - src/pages/category/cactuses.md
