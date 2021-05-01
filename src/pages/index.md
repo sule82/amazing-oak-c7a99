@@ -38,6 +38,7 @@ sections:
         text: "Ideja za logo 10...\U0001F496 1"
       - author:
           name: Zedina d.o.o.
+          location: 'Gračanica, BA'
         text: Vidi se da pripreme radi profesionalac
   - type: promotion_section
     section_id: promotion_section
