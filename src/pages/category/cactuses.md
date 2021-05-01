@@ -26,6 +26,6 @@ seo:
     - name: 'twitter:image'
       value: images/plant2-lg.jpg
       relativeUrl: true
-  description: Ovaj proizvod
+  description: 'Izrada ovg '
 template: category
 ---
