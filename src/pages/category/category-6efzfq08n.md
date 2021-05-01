@@ -1,6 +1,6 @@
 ---
 title: Slikanje i mozaik
-order: 0
+order: 5
 seo:
   title: ''
   description: ''
