@@ -4,7 +4,7 @@ price: '1000.00'
 title: Prazan papir
 description: Vidi naslov..
 default_thumbnail_image: images/oldpaper.png
-default_original_image: images/plant9-lg.jpg
+default_original_image: images/oldpaper.png
 featured: true
 order: 9
 category: src/pages/category/cactuses.md
