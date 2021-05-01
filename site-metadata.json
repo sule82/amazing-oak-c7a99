@@ -28,7 +28,7 @@
         },
         {
             "title": "Emisija",
-            "url": "#",
+            "url": "/emisija",
             "style": "primary",
             "arrow": false,
             "type": "action"
