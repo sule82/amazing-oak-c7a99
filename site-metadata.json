@@ -28,7 +28,7 @@
         },
         {
             "title": "Prodaj",
-            "url": "/pijaca",
+            "url": "#prodajni_dio",
             "style": "primary",
             "arrow": false,
             "type": "action"
